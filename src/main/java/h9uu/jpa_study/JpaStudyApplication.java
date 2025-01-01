@@ -8,7 +8,6 @@ public class JpaStudyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JpaStudyApplication.class, args);
-		dfdfasas
 	}
 
 }
